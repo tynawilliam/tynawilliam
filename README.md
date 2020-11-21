@@ -31,6 +31,7 @@
 
 <div>
   <h3> nVision</h3>
+  A digital vision boarding App in React on a Python Flask backend, PostgreSQL, SQLAlchemy
   <h4>Demo</h4>
   
   <img alt='Not Found' src='https://raw.githubusercontent.com/tynawilliam/tynawilliam/main/demo/Animated%20GIF-downsized_large.gif' width='600' />
@@ -42,6 +43,7 @@
  
   
   <h3> Boba With Buddies</h3>
+  A tea with strangers clone using VanillaJS, ExpressJS PostgreSQL and Sequelize
   <img alt='Not Found' src="https://raw.githubusercontent.com/jshafto/boba-with-buddies/master/documentation/images/homepage.png" width=300/>
   
   <img alt='Not Found' src="https://raw.githubusercontent.com/jshafto/boba-with-buddies/master/documentation/images/view-cities.png" width=300/>
