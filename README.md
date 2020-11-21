@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tyna</h1>
-<h3 align="center">I'm a software engineer with a love for volleyball, bad movies and peach rings!</h3>
+<h3 align="center">I'm a software engineer with a love for volleyball  🏐, bad movies and peach rings!</h3>
+<h4 align="center">Trying to change the world one curly brace { } at a time</h4>
 
 - 🔭 I’m currently working on [nVision](https://github.com/tynawilliam/nVision)
 
