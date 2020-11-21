@@ -44,6 +44,7 @@
   
   <h3> Boba With Buddies</h3>
   A tea with strangers clone using VanillaJS, ExpressJS PostgreSQL and Sequelize
+
   <img alt='Not Found' src="https://raw.githubusercontent.com/jshafto/boba-with-buddies/master/documentation/images/homepage.png" width=300/>
   
   <img alt='Not Found' src="https://raw.githubusercontent.com/jshafto/boba-with-buddies/master/documentation/images/view-cities.png" width=300/>
