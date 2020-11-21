@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python,React,JavaScript,C++, Redux, Flask,PostgreSQL, SQL, ExpressJS, NodeJS**
 
-- ⚡ Fun fact **You want to work with me**
+- ⚡ Fun fact **I competed at the Beach Volleyball U23 World Championships ... but I didn't win so don't ask me about it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
