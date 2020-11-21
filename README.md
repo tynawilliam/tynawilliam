@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [nVision](https://github.com/tynawilliam/nVision)
 
-- 🌱Current improving **AWS S3**
+- 🌱Currently improving **AWS S3**
 
 - 💃🏽 Recently cloned instagram [ForTheGram](https://github.com/johnedma/forthegram)
 
