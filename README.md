@@ -35,11 +35,6 @@
   <h4>Demo</h4>
   
   <img alt='Not Found' src='https://raw.githubusercontent.com/tynawilliam/tynawilliam/main/demo/Animated%20GIF-downsized_large.gif' width='600' />
-  
-  
-  <img alt='Not Found' src="https://raw.githubusercontent.com/tynawilliam/nVision/master/Documentation/Pages/Login%20Screen.png" width=300 />
-  
-  <img alt='Not Found' src='https://raw.githubusercontent.com/tynawilliam/nVision/master/Documentation/Pages/canvasW%3AMenu.png' width=300 />
  
   
   <h3> Boba With Buddies</h3>
