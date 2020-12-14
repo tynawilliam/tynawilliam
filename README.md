@@ -6,7 +6,7 @@
 
 - 🌱 Improving **AWS S3**
 
-- 💃🏽 Recently cloned instagram [ForTheGram](https://github.com/johnedma/forthegram)
+- 💃🏽 Recently cloned instagram [Petstagram](https://github.com/johnedma/forthegram)
 
 - ☕️☕️ More cool stuff [Boba with buddies](https://github.com/jshafto/boba-with-buddies)
 
