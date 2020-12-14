@@ -10,7 +10,7 @@
 
 - ☕️☕️ More cool stuff [Boba with buddies](https://github.com/jshafto/boba-with-buddies)
 
-- 👊🏽 Checkout my awesome portfolio [comingsoon.notalink](comingsoon.notalink)
+- 👊🏽 Checkout my awesome portfolio [tynawilliam.com](https://tynawilliam.com/)
 
 - 💬 Ask me about **Python,React,JavaScript,C++, Redux, Flask,PostgreSQL, SQL, ExpressJS, NodeJS**
 
