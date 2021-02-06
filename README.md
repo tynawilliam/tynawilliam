@@ -12,7 +12,7 @@
 
 - 👊🏽 Checkout my awesome portfolio [tynawilliam.com](https://tynawilliam.com/)
 
-- 💬 Ask me about **Python,React,JavaScript,C++, Redux, Flask,PostgreSQL, SQL, ExpressJS, NodeJS**
+- 💬 Ask me about **Python, React, JavaScript, Redux, Flask, PostgreSQL, SQL, ExpressJS, NodeJs, Docker, AWS**
 
 - ⚡ Fun fact **I competed at the Beach Volleyball U23 World Championships ... but I didn't win so don't ask me about it**
 
