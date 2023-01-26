@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineer with a love for volleyball  🏐, bad movies and peach rings!</h3>
 <h4 align="center">Trying to change the world one curly brace { } at a time</h4>
 
-- 🔭 Full st [nVision](https://github.com/tynawilliam/nVision)
+- 🔭 Full stack project [nVision](https://github.com/tynawilliam/nVision)
 
 - 🌱 Improving **AWS S3**
 
