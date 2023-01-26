@@ -2,15 +2,15 @@
 <h3 align="center">I'm a software engineer with a love for volleyball  🏐, bad movies and peach rings!</h3>
 <h4 align="center">Trying to change the world one curly brace { } at a time</h4>
 
-- 🔭 I’m currently working on [nVision](https://github.com/tynawilliam/nVision)
+- 🔭 Full st [nVision](https://github.com/tynawilliam/nVision)
 
 - 🌱 Improving **AWS S3**
 
-- 💃🏽 Recently cloned instagram [Petstagram](https://github.com/johnedma/forthegram)
+- 💃🏽 Cloned instagram [Petstagram](https://github.com/johnedma/forthegram)
 
 - ☕️☕️ More cool stuff [Boba with buddies](https://github.com/jshafto/boba-with-buddies)
 
-- 👊🏽 Checkout my awesome portfolio [tynawilliam.com](https://tynawilliam.com/)
+- 👊🏽 Checkout my awesome portfolio [tynaeudoxie.com](https://tynaeudoxie.com/)
 
 - 💬 Ask me about **Python, React, JavaScript, Redux, Flask, PostgreSQL, SQL, ExpressJS, NodeJs, Docker, AWS**
 
