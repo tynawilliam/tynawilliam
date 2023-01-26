@@ -4,7 +4,7 @@
 
 - 🔭 Full stack project [nVision](https://github.com/tynawilliam/nVision)
 
-- 🌱 Improving **AWS S3**
+- 🌱 Improving **Next.js**
 
 - 💃🏽 Cloned instagram [Petstagram](https://github.com/johnedma/forthegram)
 
