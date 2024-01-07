@@ -32,6 +32,9 @@
   
 ![Alt text](https://github.com/tynawilliam/music-app/raw/main/public/screenshots/browse.png)
 
+![Alt text](https://github.com/tynawilliam/music-app/raw/main/public/screenshots/homepage.png)
+
+![Alt text](https://github.com/tynawilliam/music-app/raw/main/public/screenshots/playlist.png)
  
-  
- ![Browse Page](public/screenshots/browse.png)
+
+
