@@ -2,17 +2,13 @@
 <h3 align="center">I'm a software engineer with a love for volleyball  🏐, bad movies and peach rings!</h3>
 <h4 align="center">Trying to change the world one curly brace { } at a time</h4>
 
-- 🔭 Full stack project [nVision](https://github.com/tynawilliam/nVision)
+- 🔭 Working on [beatz](https://github.com/tynawilliam/music-app)
 
-- 🌱 Improving **Next.js**
-
-- 💃🏽 Cloned instagram [Petstagram](https://github.com/johnedma/forthegram)
-
-- ☕️☕️ More cool stuff [Boba with buddies](https://github.com/jshafto/boba-with-buddies)
+- 🌱 Improving **Vue**
 
 - 👊🏽 Checkout my awesome portfolio [tynaeudoxie.com](https://tynaeudoxie.com/)
 
-- 💬 Ask me about **Python, React, JavaScript, Redux, Flask, PostgreSQL, SQL, ExpressJS, NodeJs, Docker, AWS**
+- 💬 Ask me about **TypeScript, React, JavaScript, Redux, Flask, PostgreSQL, SQL, ExpressJS, NodeJs, Docker, AWS**
 
 - ⚡ Fun fact **I competed at the Beach Volleyball U23 World Championships ... but I didn't win so don't ask me about it**
 
@@ -30,18 +26,11 @@
 
 
 <div>
-  <h3> nVision</h3>
+  <h3> Beatz Music</h3>
   A digital vision boarding App in React on a Python Flask backend, PostgreSQL, SQLAlchemy
   <h4>Demo</h4>
   
-  <img alt='Not Found' src='https://raw.githubusercontent.com/tynawilliam/tynawilliam/main/demo/Animated%20GIF-downsized_large.gif' width='600' />
+![Homepage](/public/screenshots/homepage.png)
  
   
-  <h3> Boba With Buddies</h3>
-  A tea with strangers clone using VanillaJS, ExpressJS PostgreSQL and Sequelize
-  <h4>Demo</h4>
-
-  <img alt='Not Found' src="https://raw.githubusercontent.com/jshafto/boba-with-buddies/master/documentation/images/homepage.png" width=300/>
-  
-  <img alt='Not Found' src="https://raw.githubusercontent.com/jshafto/boba-with-buddies/master/documentation/images/view-cities.png" width=300/>
-</div>
+ ![Browse Page](public/screenshots/browse.png)
