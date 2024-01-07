@@ -30,7 +30,8 @@
   A digital vision boarding App in React on a Python Flask backend, PostgreSQL, SQLAlchemy
   <h4>Demo</h4>
   
-![Homepage](/public/screenshots/homepage.png)
+![Alt text](https://github.com/tynawilliam/music-app/raw/main/public/screenshots/browse.png)
+
  
   
  ![Browse Page](public/screenshots/browse.png)
