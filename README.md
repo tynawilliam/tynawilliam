@@ -14,8 +14,11 @@
 - ⚡ Fun fact **I competed at the Beach Volleyball U23 World Championships ... but I didn't win so don't ask me about it**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/tynadwilliam/"></a><img alt="LinkedIn" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png"></a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/tynadwilliam/">
+    <img alt="LinkedIn" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" width="40" height="40"/>
+  </a>
+</p>
 
 
 ## A few snippets from some of the awesome stuff I've worked on
