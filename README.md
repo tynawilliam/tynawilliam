@@ -7,8 +7,6 @@
 
 - 🌱 Improving **Vue**
 
-- 👊🏽 Checkout my awesome portfolio [tynaeudoxie.com](https://tynaeudoxie.com/)
-
 - 💬 Ask me about **TypeScript, React, JavaScript, Redux, Flask, PostgreSQL, SQL, ExpressJS, NodeJs, Docker, AWS**
 
 - ⚡ Fun fact **I competed at the Beach Volleyball U23 World Championships ... but I didn't win so don't ask me about it**
